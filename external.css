@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 21, 2022, 3:02:42 PM
+    Author     : naha7197
+*/
+
+.p_class{
+    color:blue !important;
+    border: 2px solid red;
+}
+.p_over{
+    color:green !important;
+}
+#p_id{
+    color:blue;
+}
